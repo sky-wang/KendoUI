@@ -1,0 +1,57 @@
+ompiled source #
+*.class
+
+# SVN Repositories #
+*.svn
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.rar
+*.tar
+*.7z
+*.gz
+*.dmg
+
+# Logs and databases #
+*.log
+*.sqlite
+
+# OS generated files #
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+# IDE generated files #
+.settings
+.classpath
+.project
+*.iml
+.idea/
+target/
+bin/
+.editorconfig
+
+# Vim temp files #
+*swp
+*swo
+
+# Jmeter
+1
+
+#python
+*.pyc
+
+#test data
+*.lck
+*.ctrl
+*.db
+*.out
+
+# Ignore atlassian idea plugin
+atlassian-ide-plugin.xml
+
+#Ignore *.dat
+*.dat
+
