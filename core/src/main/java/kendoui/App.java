@@ -1,4 +1,4 @@
-package com.xplusz.kendoui;
+package kendoui;
 
 /**
  * Hello world!
